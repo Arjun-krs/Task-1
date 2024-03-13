@@ -1,0 +1,49 @@
+.head {
+  width: 345px;
+  height: 92px;
+  font-family: Jost;
+  font-size: 32px;
+  font-weight: 700;
+  line-height: 46px;
+  letter-spacing: -0.25px;
+  text-align: left;
+  color: #132433;
+
+}
+
+#para {
+  width: 345px;
+  height: 76px;
+  top: 112px;
+  font-family: Jost;
+  font-size: 20px;
+  font-weight: 700;
+  line-height: 38px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #557087;
+
+}
+
+.button {
+  width: 169px;
+  height: 56px;
+  top: 359px;
+  left: 167px;
+  background: #557087;
+  font-family: Jost;
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 20px;
+  letter-spacing: 1px;
+  text-align: center;
+  border: none;
+  color: white;
+
+}
+.first{
+  display: flex;
+  justify-content: center;
+  gap:30px;
+  padding: 20px;
+}

@@ -1,0 +1,78 @@
+body{
+  font-family: "Jost", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 700;
+  font-style: normal;
+}
+.parent{
+    width: 1105px;
+    height: 117px;
+    top: 120px;
+    left: 167px;
+    justify-content: center;
+    position: absolute;
+
+}
+.title1{
+    font-family: Jost;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 63px;
+    letter-spacing: -0.5px;
+    text-align: left;
+    color: #132433;
+}
+#para1{
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color:#557087;
+}
+.titles{
+    width: 345px;
+    height: 201px;
+    top: 619px;
+    left: 167px;
+
+}
+.to{
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: left;
+    width: 345px;
+    height: 20px;
+    color: #0045FF;
+}
+#t1{
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #557087;
+}
+.button{
+    width: 142px;
+    height: 48px;
+    top: 153px;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    color:#557087;
+    border: none;
+}
+.align{
+    display: flex;
+    justify-content: space-evenly;
+}
+

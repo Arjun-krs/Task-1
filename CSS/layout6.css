@@ -1,0 +1,121 @@
+body {
+    font-family: "Jost", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 700;
+    font-style: normal;
+}
+button:link {
+    color: palevioletred;
+    text-decoration: none;
+    border-bottom: 2px solid palevioletred;
+}
+button:visited {
+    color: #0045FF;
+    text-decoration: none;
+    border-bottom: 2px solid #0045FF;
+}
+button:hover {
+    color: red;
+    text-decoration: none;
+    border-bottom: 2px solid red;
+}
+button:active {
+    color: yellow;
+    text-decoration: none;
+    border-bottom: 2px soild yellow;
+}
+.headalign {
+    display: flex;
+    justify-content: center;
+    width: 1105px;
+    height: 39px;
+    top: 120px;
+    left: 167px;
+    margin: auto;
+}
+.head {
+    font-family: Jost;
+    font-size: 32px;
+    font-weight: 700;
+    line-height: 46px;
+    letter-spacing: -0.25px;
+    text-align: left;
+    color: #132433;
+}
+#para {
+    font-family: Jost;
+    font-size: 20px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: #557087;
+}
+.cont1 {
+    width: 535px;
+    height: 132px;
+    top: 592px;
+    left: 167px;
+}
+.cont2 {
+    width: 535px;
+    height: 132px;
+    top: 592px;
+    left: 167px;
+}
+.button1 {
+    width: 169px;
+    height: 56px;
+    top: 764px;
+    left: 167px;
+    background: #557087;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}
+.button2 {
+    width: 169px;
+    height: 56px;
+    top: 764px;
+    left: 167px;
+    background: #FFFFFF;
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: center;
+    color: #557087;
+    border: 1px solid #E0E8F0; 
+}
+.buta{
+    padding-top: 20px;
+}
+.align {
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 30px;
+    width: 1105px;
+    margin: auto;
+}
+.button {
+    font-family: Jost;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 1px;
+    text-align: left;
+    color: #0045FF;
+    border-color: #0045FF;
+    background: none;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    width: 250px;
+}
